@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/klahssen/imp"
+	"github.com/klahssen/imp/v2"
 )
 
 func main() {

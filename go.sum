@@ -2,3 +2,5 @@ github.com/klahssen/imp v1.0.0 h1:P3VLsu2PHO7k0waii9hWwtpSsS93DaeImyoT+nRJKOY=
 github.com/klahssen/imp v1.0.0/go.mod h1:c23SvCGxST5HtoTc9YGxm9r9+tN58uZoXgW//dS3rvs=
 github.com/klahssen/imp v1.0.1 h1:kA3EoOQMRGfy7qg6+giCu3BIhk9FQDe93KkiIMamFK4=
 github.com/klahssen/imp v1.0.1/go.mod h1:c23SvCGxST5HtoTc9YGxm9r9+tN58uZoXgW//dS3rvs=
+github.com/klahssen/imp/v2 v2.0.1 h1:XXWUIa3pO4KrXFd7TnH9d5CXcIgYMm0j+zIXgcUHAUI=
+github.com/klahssen/imp/v2 v2.0.1/go.mod h1:UV+CmRocEh7GgU6RVj082Mhx9aZinUn2jijxYQxtio4=
